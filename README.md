@@ -3,7 +3,7 @@
 // Author      : Michael Sancez
 // Version     : 1.0
 // Copyright   : Copyright B) 2024 SNHU COCE
-// Description : Lab 3-3 Lists and Searching
+// Description : Lab 3-2 Lists and Searching
 //============================================================================
 
 #include <algorithm>
